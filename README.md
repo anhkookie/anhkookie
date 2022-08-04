@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anhkookie
+- 👋 Hi, I’m @Ngoc Anh
 - 👀 I’m interested in website and game programming
 - 🌱 I’m currently learning java, html, javascript and CSS. I really want to learn more but I need a mentor
 - 💞️ I’m looking to collaborate on web-development projects
